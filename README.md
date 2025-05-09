@@ -23,3 +23,5 @@ Developed a comprehensive HR Analytics Dashboard to analyze workforce trends and
 11. Overall Insight Generation
 
 --Dashboard Interaction--
+
+- <a href="https://github.com/sukritideb28/HR-Analytics-Dashboard/commit/e7164b979a17f1b195bec8f63849ac69a0a65423"> View Data</a>
